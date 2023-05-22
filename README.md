@@ -11,8 +11,8 @@
 > 인용문
 >> 인용문
 
-`printf("Hello World!");`
+`printf("Hello World!");
 ```#include <stdio.h>
 int main() {
   return 0;
-}```
+}
